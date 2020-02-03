@@ -7,7 +7,7 @@ description: >-
     for developing course websites.
 ---
 
-# Launch your class website on GitHub Pages
+# Hi, I'm Adel Setoodehnia!
 {: .mb-2 }
 Just the Class, Summer 2019
 {: .mb-0 .fs-6 .text-grey-dk-000 }
