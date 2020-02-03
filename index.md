@@ -9,7 +9,8 @@ description: >-
 
 # Hi, I'm Adel Setoodehnia!
 {: .mb-2 }
-Just the Class, Summer 2019
+UC Berkeley
+Mathematics and Computer Science, B.A.
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
