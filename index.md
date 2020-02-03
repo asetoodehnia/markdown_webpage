@@ -9,8 +9,7 @@ description: >-
 
 # Hi, I'm Adel Setoodehnia!
 {: .mb-2 }
-UC Berkeley
-Mathematics and Computer Science, B.A.
+UC Berkeley | Mathematics and Computer Science, B.A.
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -19,13 +18,6 @@ Mathematics and Computer Science, B.A.
   {{ staffer }}
   {% endfor %}
 </div>
-
-{% if site.announcements %}
-{{ site.announcements.last }}
-<a href="{{ site.baseurl }}/announcements" class="btn btn-outline fs-3">
-  All Announcements
-</a>
-{% endif %}
 
 ## Just the Class
 
